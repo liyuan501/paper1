@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5178e8a3-2e94-4ca3-b399-e9d169b9e493" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/图标原本/绘图1.vsdx" afterPath="$PROJECT_DIR$/图标原本/绘图1.vsdx" />
-      <change beforePath="$PROJECT_DIR$/论文结构-李袁.docx" afterPath="$PROJECT_DIR$/论文结构-李袁.docx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -93,12 +91,20 @@
       <updated>1531148627459</updated>
       <workItem from="1531148628671" duration="766000" />
       <workItem from="1531234034095" duration="749000" />
-      <workItem from="1531328102157" duration="1728000" />
+      <workItem from="1531328102157" duration="1804000" />
     </task>
+    <task id="LOCAL-00001" summary="add：visio">
+      <created>1531331245030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531331245030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3243000" />
+    <option name="totallyTimeSpent" value="3319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="6" />
@@ -128,6 +134,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add：visio" />
+    <option name="LAST_COMMIT_MESSAGE" value="add：visio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
